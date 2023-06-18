@@ -1,0 +1,5 @@
+torch
+json
+Pillow
+fastapi
+pandas
